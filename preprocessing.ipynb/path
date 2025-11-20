@@ -1,9 +1,0 @@
-num_transactions,avg_tx_length,min_tx_length,max_tx_length,num_unique_items,item,count
-3.0,2.6666666666666665,2.0,3.0,8.0,milk,1
-,,,,,bread,1
-,,,,,eggs,1
-,,,,,juice,1
-,,,,,soap,1
-,,,,,potatoes,1
-,,,,,coffee,1
-,,,,,onions,1
