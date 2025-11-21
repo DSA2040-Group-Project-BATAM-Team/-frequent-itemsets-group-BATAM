@@ -60,7 +60,7 @@ The script generates `maximal_frequent_itemsets.csv`, which lists the **largest 
 
 ---
 
-## 🛠️ Contributions Summary
+##  Contributions Summary
 
 - **Bophine Aime Mitchelle Tumaini** (`bophine4@gmail.com`)  
   **Data Simulation & Initial File Generation**  
@@ -84,7 +84,7 @@ The script generates `maximal_frequent_itemsets.csv`, which lists the **largest 
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 | File | Description |
 |------|-----------|
